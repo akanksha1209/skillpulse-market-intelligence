@@ -1,0 +1,13 @@
+{
+  "name": "skillpulse-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix .. run dev",
+    "build": "npm --prefix .. run build",
+    "start": "npm --prefix .. run start",
+    "lint": "npm --prefix .. run lint",
+    "typecheck": "npm --prefix .. run typecheck"
+  }
+}
+
